@@ -1,0 +1,5 @@
+C:/Users/surface/source/repos/ast4j/build/Debug_x86/CMakeFiles/edit_cache.dir
+C:/Users/surface/source/repos/ast4j/build/Debug_x86/CMakeFiles/rebuild_cache.dir
+C:/Users/surface/source/repos/ast4j/build/Debug_x86/ast4j/CMakeFiles/rebuild_cache.dir
+C:/Users/surface/source/repos/ast4j/build/Debug_x86/ast4j/CMakeFiles/ast4j.dir
+C:/Users/surface/source/repos/ast4j/build/Debug_x86/ast4j/CMakeFiles/edit_cache.dir
